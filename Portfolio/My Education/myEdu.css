@@ -108,7 +108,7 @@ a{
     gap: 20px;
 }
 .education{
-    padding-top: 8%;
+    padding-top: 5%;
     width: auto;
     display: grid;
     margin: 0 auto;
@@ -137,15 +137,19 @@ a{
     /* font-size: larger; */
     color: white;
     font-style: italic;
-    
+    width: 70%;
 }
 .course{
     /* background-color: chocolate; */
     font-size: 28px;
     color:white;
+    width: 70%;
+    
     /* padding-top: 6px; */
 }
 .info{
     padding-top: 8px;
     color: white;
+    width: 70%;
+    line-height: 1.3;
 }
